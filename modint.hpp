@@ -3,8 +3,8 @@
 //
 
 
-#ifndef ABC_MODINT_HPP
-#define ABC_MODINT_HPP
+#ifndef MODINT_HPP
+#define MODINT_HPP
 
 #include <iostream>
 
@@ -65,4 +65,4 @@ public:
     long long val = 0;
 };
 
-#endif //ABC_MODINT_HPP
+#endif //MODINT_HPP
